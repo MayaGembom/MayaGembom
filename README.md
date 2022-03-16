@@ -1,7 +1,7 @@
 <h2> Hi, I'm Maya Gembom! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h2>
 
 
-<p><em>Bachelor's Degree - Software Engineering at <a href="https://www.afeka.ac.il/">Afeka College of Engineering</a><img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="60">
+<p><em>Bachelor's Degree - Software Engineering <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="60">
 
 I have a strong foundation in programming principles across several platforms and self learned abilities for quickly mastering new technologies.
 
